@@ -1,2 +1,2 @@
-# SPAlign
-SPAlign: Structure-Aware Smooth Perception for Heterogeneous Feature Alignment in Personalized Federated Learning
+# CARE
+From Calibration to Refinement: Seeking Certainty via Probabilistic Evidence Propagation for Noisy-Label Person Re-Identification
